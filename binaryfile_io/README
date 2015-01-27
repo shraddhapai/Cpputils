@@ -1,0 +1,6 @@
+This folder contains code and examples for file i/o into a text file converted
+into fixed-width binary.
+
+The text file consists of a tab-delimited table:
+Column 1 is an integer identifier. Columns 2-n can be one of {0,1,2}.
+
