@@ -3,6 +3,9 @@
 // columns to an output file.
 // input args: 1) input file 2) output file.
 
+// To compile:
+// g++ -I/opt/local/include -L/opt/local/lib fileio.cpp
+
 #include <iostream>
 #include <fstream>
 #include <boost/algorithm/string.hpp>
